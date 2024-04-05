@@ -1,3 +1,6 @@
-warnings
+pytest-warnings
 scikit-learn
 streamlit
+xgboost
+mlxtend
+pillow
