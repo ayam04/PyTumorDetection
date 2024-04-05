@@ -1,0 +1,8 @@
+linear regression
+logistic regression
+svm
+decision tree
+knn
+naive bayes
+random forest
+pca
