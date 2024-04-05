@@ -4,3 +4,5 @@ streamlit
 xgboost
 mlxtend
 pillow
+pickle5
+numpy
