@@ -42,6 +42,7 @@ The main.ipynb Jupyter Notebook is used for model training and evaluation. It in
 To execute the Jupyter Notebook, open it using Jupyter Notebook or Jupyter Lab and run each cell sequentially.
 
 # Models and Model Scores
+
 The models directory contains pre-trained machine learning models serialized using pickle. The model_table dictionary in main.py provides scores for each model based on its performance.
 
 # Dataset
