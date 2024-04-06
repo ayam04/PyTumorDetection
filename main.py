@@ -5,7 +5,7 @@ import numpy as np
 
 model_table = {
     "Model": ['Decision Tree Classifier' , 'Gradient Boost Classifier' , 'KNeighbors Regressor' , 'KNeighbors Classifier' , 'Linear Discriminate Analysis(LDA)' , 'Logistic Regression', 'Linear Regression' , 'Lasso' , 'MLP Classifier' , 'Ridge', 'Random Forest Classifier' , 'SVC ' , 'XGB Classifier'],
-    "Scores": [95.705, 97.750, 92.433, 76.294, 86.503, 93.865, 73.442, 00.045, 95.501, 73.228, 97.137, 98, 97.546]
+    "Scores": [95.705, 97.750, 92.433, 76.294, 86.503, 93.865, 73.442, 00.045, 95.501, 73.228, 97.137, 32.924, 97.546]
  }
 
 def load_model(model_name):
