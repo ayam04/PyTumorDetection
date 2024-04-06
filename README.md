@@ -18,3 +18,31 @@ To run the Streamlit web application, execute the following command in your term
 
 ```bash
 streamlit run main.py
+```
+
+### Jupyter Notebook for Model Training
+
+The main.ipynb Jupyter Notebook is used for model training and evaluation. It includes the following steps:
+
+- Data Loading and Preprocessing
+- Model Training
+- Model Evaluation
+- Saving Trained Models
+
+# Dependencies
+
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `scikit-learn`
+- `opencv-python`
+
+# Usage
+
+To execute the Jupyter Notebook, open it using Jupyter Notebook or Jupyter Lab and run each cell sequentially.
+
+# Models and Model Scores
+The models directory contains pre-trained machine learning models serialized using pickle. The model_table dictionary in main.py provides scores for each model based on its performance.
+
+# Dataset
+The dataset used for training and testing the models consists of MRI scan images stored in the tumor directory. The data is split into training and testing sets for model evaluation.
